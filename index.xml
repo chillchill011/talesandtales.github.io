@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tales &amp; Tales – </title>
+    <title>Tales &amp; Tales – Tales and Tales</title>
     <link>https://chillchill011.github.io/talesandtales.github.io/</link>
-    <description>Recent content on Tales &amp; Tales</description>
+    <description>Recent content in Tales and Tales on Tales &amp; Tales</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 22 Mar 2024 22:19:18 +0530</lastBuildDate>
@@ -23,7 +23,12 @@
       <description>
         
         
-        &lt;h1&gt;Title&lt;/h1&gt;
+        &lt;h1&gt;Title&lt;/h1&gt;&lt;h2&gt;Second title&lt;span class=&#34;absolute -mt-20&#34; id=&#34;second-title&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#second-title&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eu justo id risus porttitor convallis at tristique lectus. Aliquam erat volutpat. Phasellus rhoncus, magna eget scelerisque vestibulum, diam neque hendrerit ipsum, sed sodales nunc nisi eu lacus. Integer quis lacus consequat risus eleifend porttitor quis in tortor. Nunc maximus, ipsum at condimentum tincidunt, eros tortor tempus mauris, sit amet volutpat lacus lacus ut augue. Nullam elementum cursus nisl, eget finibus ligula suscipit ac. Cras facilisis tincidunt pulvinar. Fusce ullamcorper, ipsum sed semper maximus, tortor quam dictum risus, sed rhoncus erat risus et lorem. Nullam semper est sed facilisis porttitor. Ut et lacus vel elit imperdiet laoreet sed eleifend enim. Maecenas auctor est sit amet ipsum dictum, sit amet semper arcu consectetur. Pellentesque dignissim purus vel ligula sollicitudin, finibus ultricies est commodo. Curabitur aliquet mauris at porta interdum. Quisque sem dolor, scelerisque sed augue cursus, pulvinar fermentum sapien. In eros augue, mattis id commodo et, dapibus vitae dui.&lt;/p&gt;
+&lt;h2&gt;Second title 2&lt;span class=&#34;absolute -mt-20&#34; id=&#34;second-title-2&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#second-title-2&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Suspendisse efficitur nibh justo, in volutpat elit condimentum vitae. Donec aliquam, arcu eu congue suscipit, ex massa blandit urna, tristique rhoncus turpis ligula nec justo. Cras blandit justo a quam vestibulum efficitur. Cras tincidunt elementum dolor, vulputate ultrices lacus hendrerit et. Cras tincidunt, nisl et efficitur rutrum, enim odio vestibulum mi, nec sagittis est ante eget tortor. Quisque sed massa porta, placerat sapien in, dapibus nisl. Donec ac ligula mi. Pellentesque vehicula est dolor, non eleifend urna convallis at. Duis eleifend erat vel tellus rutrum lacinia. Quisque vel arcu nisl. Nam interdum mauris nec efficitur semper. Nam nibh nisl, consectetur nec erat vitae, tempor condimentum ipsum. Etiam lacus arcu, accumsan porttitor eleifend nec, feugiat non felis.&lt;/p&gt;
+&lt;h3&gt;Second title 3&lt;span class=&#34;absolute -mt-20&#34; id=&#34;second-title-3&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#second-title-3&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;
       </description>
     </item>
     
