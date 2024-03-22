@@ -1,0 +1,32 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tales &amp; Tales – Blog</title>
+    <link>https://talesandtales.github.io/blog/</link>
+    <description>Recent content in Blog on Tales &amp; Tales</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 22 Mar 2024 22:20:32 +0530</lastBuildDate>
+    
+	  <atom:link href="https://talesandtales.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Firstpost</title>
+      <link>https://talesandtales.github.io/blog/firstpost/</link>
+      <pubDate>Fri, 22 Mar 2024 22:23:24 +0530</pubDate>
+      
+      <guid>https://talesandtales.github.io/blog/firstpost/</guid>
+      <description>
+        
+        
+        &lt;h1&gt;Title&lt;/h1&gt;
+      </description>
+    </item>
+    
+  </channel>
+</rss>
