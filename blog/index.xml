@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tales &amp; Tales – Blog</title>
-    <link>https://chillchill011.github.io/talesandtales.github.io/blog/</link>
+    <link>http://localhost:1313/talesandtales.github.io/blog/</link>
     <description>Recent content in Blog on Tales &amp; Tales</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 22 Mar 2024 22:20:32 +0530</lastBuildDate>
     
-	  <atom:link href="https://chillchill011.github.io/talesandtales.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/talesandtales.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -17,10 +17,10 @@
     
     <item>
       <title>Firstpost</title>
-      <link>https://chillchill011.github.io/talesandtales.github.io/blog/firstpost/</link>
+      <link>http://localhost:1313/talesandtales.github.io/blog/firstpost/</link>
       <pubDate>Fri, 22 Mar 2024 22:23:24 +0530</pubDate>
       
-      <guid>https://chillchill011.github.io/talesandtales.github.io/blog/firstpost/</guid>
+      <guid>http://localhost:1313/talesandtales.github.io/blog/firstpost/</guid>
       <description>
         
         
